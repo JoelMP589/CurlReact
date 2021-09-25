@@ -1,0 +1,173 @@
+
+{
+    "root":
+    [
+        {
+            "key": "0",
+            "data":{
+                "name":"Expedientes",
+                "size":"10/09/2021",
+                "type":"102200"
+            },
+            "children":[
+                {
+                    "key": "0-0",
+                    "data":{
+                        "name":"Informes",
+                        "size":"20/12/2021",
+                        "type":"00012"
+                    },
+                    "children":[
+                        {
+                            "key": "0-0-0",
+                            "data":{
+                                "name":"Primer trimestre",
+                                "size":"01/09/2020",
+                                "type":"11111"
+                            }
+                        },
+                        {
+                            "key": "0-0-1",
+                            "data":{
+                                "name":"Segundo trimestre",
+                                "size":"01/11/2020",
+                                "type":"11123"
+                            }
+                        },
+                        {
+                            "key": "0-0-2",
+                            "data":{
+                                "name":"Tercer trimestre",
+                                "size":"02/02/2021",
+                                "type":"14512"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "key": "0-1",
+                    "data":{
+                        "name":"Casos abiertos",
+                        "size":"09/12/201",
+                        "type":"1112128"
+                    }
+                },
+                {
+                    "key": "0-2",
+                    "data":{
+                        "name":"Terminados",
+                        "size":"29/09/2021",
+                        "type":"791021"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "1",
+            "data":{
+                "name":"Instancias",
+                "size":"03/03/2021",
+                "type":"1944"
+            },
+            "children":[
+                {
+                    "key": "1-0",
+                    "data":{
+                        "name":"Primera instancia",
+                        "size":"17/09/2018",
+                        "type":"77612"
+                    }
+                },
+                {
+                    "key": "1-1",
+                    "data":{
+                        "name":"Segunda instancia",
+                        "size":"31/01/2013",
+                        "type":"3141"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "data": {
+                "name":"Materia",
+                "size":"00/00/00",
+                "type":"4571"
+            },
+            "children":[
+                {
+                    "key": "2-0",
+                    "data":{
+                        "name":"Forma",
+                        "size":"12/09/2019",
+                        "type":"1112"
+                    }
+                },
+                {
+                    "key": "2-1",
+                    "data":{
+                        "name":"Material",
+                        "size":"07/12/2021",
+                        "type":"1134"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "3",
+            "data":{
+                "name":"Juzgado",
+                "size":"00/00/00",
+                "type":"1234"
+            },
+            "children":[
+                {
+                    "key": "3-0",
+                    "data":{
+                        "name":"Zumpango",
+                        "size":"00/00/00",
+                        "type":"2345"
+                    },
+                    "children":[
+                        {
+                            "key": "3-0-0",
+                            "data":{
+                                "name":"Principal",
+                                "size":"00/00/00",
+                                "type":"3456"
+                            }
+                        },
+                        {
+                            "key": "3-0-1",
+                            "data":{
+                                "name":"Secundario",
+                                "size":"00/00/00",
+                                "type":"4567"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "key": "3-1",
+                    "data":{
+                        "name":"Ozumbilla",
+                        "size":"00/00/00",
+                        "type":"4567"
+                    },
+                    "children":[
+                        {
+                            "key": "3-1-0",
+                            "data":{
+                                "name":"Principal",
+                                "size":"00/00/00",
+                                "type":"090909"
+                            }
+                        }
+                    ]
+                } 
+            ]
+        }
+            
+    ]
+}
