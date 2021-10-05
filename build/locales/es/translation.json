@@ -1,0 +1,91 @@
+{
+  "Terminal": {
+    "bienvenida": "Bienvenido a la Consola CURL",
+    "instrucciones": "Por favor escriba su peticion en formato",
+    "curl": "CURL",
+    "error": "Comando desconocido para: ",
+    "errormetodo": "Ocurrio un error revise su peticion",
+    "ejemplo": " Por ejemplo curl -i -H \"Content-Type: application/json\" -X GET https://jsonplaceholder.typicode.com/todos/1"
+  },
+  "boton": {
+    "agregar": "Agregar",
+    "actualizar": "Actualizar",
+    "aceptar": "Aceptar",
+    "eliminar": "Eliminar",
+    "buscar": "Buscar",
+    "imprimir": "Imprimir",
+    "consultar": "Consultar",
+    "cancelar": "Cancelar",
+    "siguiente": "Siguiente",
+    "atras": "Atrás",
+    "editar": "Editar",
+    "generaPDF": "Generar PDF",
+    "digitalizar": "Digitalizar",
+    "subir": "Subir",
+    "verDocs": "Ver documentos",
+    "guardar": "Guardar",
+    "limpiar": "Limpiar última petición",
+    "limpiarFecha": "Limpiar Fechas"
+  },
+  "rotulo": {
+    "agregar": "Agregar",
+    "actualizar": "Actualizar",
+    "aceptar": "Aceptar",
+    "eliminar": "Eliminar",
+    "buscar": "Buscar",
+    "imprimir": "Imprimir",
+    "consultar": "Consultar",
+    "cancelar": "Cancelar",
+    "si": "Si",
+    "no": "No",
+    "editar": "Editar",
+    "dropdownEmpty": "No se encontrarón opciones"
+  },
+  "placeholder": {
+    "criterio": "Buscar..."
+  },
+  "formato": {
+    "fechaHora": "DD/MM/YYYY HH:mm:ss"
+  },
+  "mensaje": {
+    "severidad": "info",
+    "agregar": "Agregado correctamente",
+    "confirmacion": "Esta seguro?",
+    "eliminar": "Eliminado correctamente",
+    "actualizar": "Actualizado correctamente",
+    "confirmmensaje": " ¿Esta seguro de eliminar este registro?",
+    "confirmmensajeaccept": "Si, Estoy Seguro",
+    "confirmAgregaParte": "¿Desea agregar otra persona?",
+    "confirmAgregaParteAccept": "Si, Deseo agregarla",
+    "confirmAgregaParteReject": "No, Deseo continuar"
+  },
+  "error": {
+    "severidad": "error",
+    "agregar": "Error al Agregar",
+    "eliminar": "Error al Eliminar",
+    "seleccionar": "Error en Seleccionar",
+    "buscar": "Error en Buscar",
+    "actualizar": "Error al Actualizar",
+    "Repetido": "Tu Curp y/o correo ya estan registrados"
+  },
+  "cabecero": {
+    "exito": "Éxito",
+    "error": "Lo sentimos",
+    "confirmcabecero": "Confirmación de Eliminación",
+    "confirmCabeceroAgregaParte": "Confirmación de Proceso"
+  },
+  "icono": {
+    "confirmicono": "pi pi-info-circle",
+    "confirmiconoaccept": "pi pi-trash",
+    "confirmiconoreject": "pi pi-undo",
+    "confirmIconoAgregaParte": "pi pi-exclamation-triangle",
+    "confirmIconoAcceptAgregaParte": "pi pi-check",
+    "confirmIconoRejectAgregaParte": "pi pi-undo"
+  },
+  "classname": {
+    "confirmclassnameaccept": "p-button-danger",
+    "confirmclassnamereject": "p-button-secondary",
+    "confirmClassnameAcceptAgregaParte": "p-button-info",
+    "confirmClassnameRejectAgregaParte": "p-button-raised p-button-secondary"
+  }
+}

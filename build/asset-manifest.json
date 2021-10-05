@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JoelMP589/CurlReact/static/css/main.8632c2c4.chunk.css",
+    "main.js": "/JoelMP589/CurlReact/static/js/main.ca523fbf.chunk.js",
+    "main.js.map": "/JoelMP589/CurlReact/static/js/main.ca523fbf.chunk.js.map",
+    "runtime-main.js": "/JoelMP589/CurlReact/static/js/runtime-main.70526f9b.js",
+    "runtime-main.js.map": "/JoelMP589/CurlReact/static/js/runtime-main.70526f9b.js.map",
+    "static/css/2.7766edfe.chunk.css": "/JoelMP589/CurlReact/static/css/2.7766edfe.chunk.css",
+    "static/js/2.593a2af1.chunk.js": "/JoelMP589/CurlReact/static/js/2.593a2af1.chunk.js",
+    "static/js/2.593a2af1.chunk.js.map": "/JoelMP589/CurlReact/static/js/2.593a2af1.chunk.js.map",
+    "index.html": "/JoelMP589/CurlReact/index.html",
+    "static/css/2.7766edfe.chunk.css.map": "/JoelMP589/CurlReact/static/css/2.7766edfe.chunk.css.map",
+    "static/css/main.8632c2c4.chunk.css.map": "/JoelMP589/CurlReact/static/css/main.8632c2c4.chunk.css.map",
+    "static/js/2.593a2af1.chunk.js.LICENSE.txt": "/JoelMP589/CurlReact/static/js/2.593a2af1.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/JoelMP589/CurlReact/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70526f9b.js",
+    "static/css/2.7766edfe.chunk.css",
+    "static/js/2.593a2af1.chunk.js",
+    "static/css/main.8632c2c4.chunk.css",
+    "static/js/main.ca523fbf.chunk.js"
+  ]
+}
