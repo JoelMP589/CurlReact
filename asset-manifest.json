@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CurlReact/static/css/main.8632c2c4.chunk.css",
+    "main.js": "/CurlReact/static/js/main.ca523fbf.chunk.js",
+    "main.js.map": "/CurlReact/static/js/main.ca523fbf.chunk.js.map",
+    "runtime-main.js": "/CurlReact/static/js/runtime-main.720cbc9c.js",
+    "runtime-main.js.map": "/CurlReact/static/js/runtime-main.720cbc9c.js.map",
+    "static/css/2.322154d3.chunk.css": "/CurlReact/static/css/2.322154d3.chunk.css",
+    "static/js/2.8fd3a6fd.chunk.js": "/CurlReact/static/js/2.8fd3a6fd.chunk.js",
+    "static/js/2.8fd3a6fd.chunk.js.map": "/CurlReact/static/js/2.8fd3a6fd.chunk.js.map",
+    "index.html": "/CurlReact/index.html",
+    "static/css/2.322154d3.chunk.css.map": "/CurlReact/static/css/2.322154d3.chunk.css.map",
+    "static/css/main.8632c2c4.chunk.css.map": "/CurlReact/static/css/main.8632c2c4.chunk.css.map",
+    "static/js/2.8fd3a6fd.chunk.js.LICENSE.txt": "/CurlReact/static/js/2.8fd3a6fd.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/CurlReact/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.720cbc9c.js",
+    "static/css/2.322154d3.chunk.css",
+    "static/js/2.8fd3a6fd.chunk.js",
+    "static/css/main.8632c2c4.chunk.css",
+    "static/js/main.ca523fbf.chunk.js"
+  ]
+}
